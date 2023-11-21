@@ -5,7 +5,7 @@
 ![Template Screen Shot](https://github.com/Bonsai-Miyagi/VueJS3-CSS-Layout-Blueprint/blob/master/src/assets/project-image.png)
 ![Figma Template Screen Shot](https://github.com/Bonsai-Miyagi/VueJS3-CSS-Layout-Blueprint/blob/master/src/assets/figma-template.png)
 
-Every section is treated as a separated element. Except for content and sidebar. 
+Every section is treated as a separated component. Except for content and sidebar. 
 
 The article data can be modified to add more articles in the article.json file. 
 
