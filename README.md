@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Template Screen Shot][template-screenshot]](https://example.com)
+[![Template Screen Shot][template-screenshot]](https://github.com/Bonsai-Miyagi/VueJS3-CSS-Layout-Blueprint/blob/master/src/assets/figma-template.png)
 
 Every section is treated as a separated element. Except for content and sidebar. 
 
