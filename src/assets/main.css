@@ -1,1 +1,45 @@
-@import './base.css';
+
+/*CDN Import just for development. */
+/*Download later to improve performance, as loading one after the other can be slower than loading in parallel*/
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Work+Sans:wght@100;200;300;400;600;800&display=swap');
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+body {
+    background-color: #1E2326;
+    color: #fff;
+    font-family: 'Work Sans', 'Righteus';
+}
+
+/*CSS Scrollbar START*/
+body {
+  --sb-track-color: #232E33;
+  --sb-thumb-color: #1cb698;
+  --sb-size: 10px;
+  
+  scrollbar-color: var(--sb-thumb-color) 
+                   var(--sb-track-color);
+}
+  
+body::-webkit-scrollbar {
+  width: var(--sb-size) 
+}
+  
+body::-webkit-scrollbar-track {
+  background: var(--sb-track-color);
+  border-radius: 1px;
+}
+  
+body::-webkit-scrollbar-thumb {
+  background: var(--sb-thumb-color);
+  border-radius: 1px;
+}
+/*CSS Scrollbar END*/
+  

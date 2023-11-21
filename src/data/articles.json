@@ -1,0 +1,29 @@
+ [
+      {
+        "id": 1,
+        "title": "Python: The most versatile programming language",
+        "text": "Python is a versatile programming language that can be used for a wide range of tasks, including web development, machine learning, and data science."
+      },
+      {
+        "id": 2,
+        "title": "Java: The enterprise programming language",
+        "text": "Java is a popular programming language for enterprise application development, as it is secure, scalable, and portable."
+      },
+      {
+        "id": 3,
+        "title": "C: The low-level programming language",
+        "text": "C is a low-level programming language that is used for system software development, device drivers, and high-performance applications."
+      },
+      {
+        "id": 4,
+        "title": "C++: The high-performance programming language",
+        "text": "C++ is a high-level programming language that is used for high-performance application development, such as games and scientific applications."
+      },
+      {
+        "id": 5,
+        "title": "JavaScript: The client-side programming language",
+        "text": "JavaScript is a client-side programming language that is used to create interactive web pages."
+      }
+]
+
+  

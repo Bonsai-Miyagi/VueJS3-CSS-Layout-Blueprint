@@ -1,29 +1,28 @@
 # VueJS3 - CSS Layout Blueprint
 
-This template should help get you started developing with Vue 3 in Vite.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-## Recommended IDE Setup
+[![Template Screen Shot][template-screenshot]](https://example.com)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Every section is treated as a separated element. Except for content and sidebar. 
 
-## Customize configuration
+The article data can be modified to add more articles in the article.json file. 
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+This data is rendered on the BodyComponent.vue
 
-## Project Setup
+Also it has a scrollbar. You can change the color on main.css
 
-```sh
-npm install
-```
+This is just a template and I know it can be better. 
 
-### Compile and Hot-Reload for Development
 
-```sh
-npm run dev
-```
 
-### Compile and Minify for Production
+<!-- Limitations -->
+## Limitations
 
-```sh
-npm run build
-```
+This is just a simple template project and there are several areas for improvement. For example, the application could be made more responsive, the article data could be loaded from a remote source, and the scrollbar could be made more customizable.
+
+## Contributing
+If you have any suggestions or improvements for the project, please feel free to create an issue or submit a pull request.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
