@@ -16,6 +16,8 @@ Also it has a scrollbar. You can change the color on main.css
 This is just a template and I know it can be better. 
 
 
+## Project Structure
+![Template Screen Shot](https://github.com/Bonsai-Miyagi/VueJS3-CSS-Layout-Blueprint/blob/master/src/assets/structure.png)
 
 <!-- Limitations -->
 ## Limitations
